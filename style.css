@@ -1,0 +1,19 @@
+body{
+
+  background-image: url('img.jpg');
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.btn-danger{
+  vertical-align: middle;
+text-align: center;
+
+
+}
+.form-row{
+  vertical-align: middle;
+}
